@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✨ Razan Azizieh
-### 🚀 Front-End & Backend Explorer | React & NestJS
+### Front-End & Back-End Developer | React & NestJS
 
 ---
 

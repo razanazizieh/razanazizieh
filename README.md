@@ -31,7 +31,7 @@
 
 <br />
 
-### 🌷 Daily Coding Streak
+### 🌱 Daily Coding Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razanazizieh&theme=radical&hide_border=true&stroke=FFB7C5&background=1a1b26" width="90%" />

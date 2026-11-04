@@ -3,7 +3,7 @@
 # 🌸 Welcome to My Profile! 🌸
 
 ✨ **Razan Azizieh** ✨  
-*Front-End & Back-End Developer* 💻🌷
+*Front-End & Back-End Developer*  
 
 <br />
 
@@ -14,7 +14,7 @@
 
 <br />
 
-### 💖 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />

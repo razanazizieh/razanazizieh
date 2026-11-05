@@ -2,7 +2,7 @@
 
 # 🌸 Welcome to My Profile! 🌸
 
-✨ **Razan Azizieh** ✨  
+   **Razan Azizieh**   
 *Front-End & Back-End Developer*  
 
 <br />

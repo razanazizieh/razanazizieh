@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌸 Welcome to My Profile 🌸 
+# Welcome to My Profile 
 
 
 <br />
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=20&pause=1000&color=FFB7C5&center=true&vCenter=true&width=480&lines=Creating+magic+with+code...;React+%26+NestJS+Enthusiast;Always+learning+%26+growing+🌱" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=20&pause=1000&color=FFB7C5&center=true&vCenter=true&width=480&lines=Creating+magic+with+code...;React+%26+NestJS+Enthusiast;Always+learning+%26+growing" alt="Typing SVG" />
 
 </div>
 
